@@ -1,0 +1,19 @@
+{
+  "name": "anagrams-tdd",
+  "version": "1.0.0",
+  "description": "algo qui teste si deux strings sont des anagrammes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/anagrams-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/anagrams-tdd/issues"
+  },
+  "homepage": "https://github.com/rapatte/anagrams-tdd#readme"
+}
