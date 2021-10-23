@@ -7,4 +7,4 @@ const cleanStr = (str) => {
         .split("")
         .sort()
         .join("")
-}
+};
